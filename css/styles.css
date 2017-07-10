@@ -1,0 +1,32 @@
+body {
+	background: #99FFCC;
+	font: 14px;
+	line-height: 1;
+  	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul {
+	list-style-type: circle;
+}
+li {
+	text-decoration: none;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+}
+a:visited {
+	color: green;
+}
+a:active {
+	color: blue;
+}
+h1 {
+	margin-left: 50px;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+}
